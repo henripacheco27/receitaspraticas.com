@@ -10,9 +10,16 @@ tags: ["astro", "blogueirando", "aprendendo em público"]
 ---
 ## Brigadeiro de Colher Cremoso
 
+<style>
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
 <div style="text-align: left;">
   <img src="https://i.panelinha.com.br/i1/228-q-2859-brigadeiro.webp" alt="brigadeiro-de-colher">
 </div>
+
 
 **Ingredientes:**
 
@@ -50,7 +57,7 @@ tags: ["astro", "blogueirando", "aprendendo em público"]
   }
 </style>
 
-<button onclick="window.location.href='URL_do_menu'" class="botao-menu">
+<button onclick="window.location.href='https://receitaspraticasdevo.netlify.app/menu/'" class="botao-menu">
   Voltar ao Menu
 </button>
 

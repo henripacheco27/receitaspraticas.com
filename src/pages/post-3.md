@@ -8,20 +8,72 @@ image:
     alt: 'Logo Astro em fundo escuro com brilho rosa.'
 tags: ["astro", "blogueirando", "aprendendo em público"]
 ---
-# Minha Primeira Postagem no Blog
+## Feijoada Completa e Deliciosa
 
-Publicado em: 2022-07-01
+<style>
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+<div style="text-align: left;">
+  <img src="https://receitasdoclau.com.br/wp-content/uploads/2024/04/Receita-Tradicional-Feijoada-a-Transmontana-a-Portuguesa.jpg" alt="feijoada">
+</div>
 
-Bem-vindo ao meu _novo blog_ sobre aprendendo Astro! Aqui, eu irei compartilhar minha jornada de aprendizado enquanto eu construo um novo website.
 
-## O que eu realizei
+**Ingredientes:**
 
-1. **Instalando Astro**: Primeiro, eu criei um novo projeto Astro e configurei minhas contas online.
+* **Feijão:**
+    * 500g de feijão preto
+    * 1 folha de louro
+* **Carnes:**
+    * 250g de carne seca
+    * 250g de lombo salgado
+    * 250g de costelinha salgada
+    * 250g de paio
+    * 250g de linguiça calabresa defumada
+    * 200g de bacon em cubos
+* **Tempero:**
+    * 1 cebola grande picada
+    * 4 dentes de alho amassados
+    * 1 colher de sopa de azeite extra virgem
+    * Sal e pimenta do reino a gosto
+* **Acompanhamentos:**
+    * Arroz branco
+    * Couve mineira refogada
+    * Farofa com bacon
+    * Laranja em rodelas
 
-2. **Fazendo Páginas**: E então eu aprendi como fazer páginas criando novos arquivos `.astro` e os colocando na pasta `src/pages/`.
+**Modo de Preparo:**
 
-3. **Fazendo Postagens no Blog**: Esta é minha primeira postagem no blog! Eu agora tenho páginas Astro e postagens em Markdown!
+1. **Dessalgue as carnes:** Na véspera, coloque a carne seca, o lombo e a costelinha em uma tigela com água fria. Troque a água pelo menos 3 vezes, deixando as carnes imersas na geladeira.
+2. **Cozinhe o feijão:** Lave o feijão e coloque-o em uma panela de pressão com água fria (cerca de 3 dedos acima do feijão) e a folha de louro. Cozinhe por cerca de 30 minutos após o início da pressão, ou até que o feijão esteja macio.
+3. **Prepare as carnes:** Corte o bacon em cubos e frite em sua própria gordura até dourar. Retire o bacon e reserve. Na mesma panela, doure as carnes dessalgadas, cortadas em pedaços médios.
+4. **Refogue o tempero:** Retire as carnes da panela e reserve. Na mesma panela, adicione o azeite e refogue a cebola picada até ficar transparente. Adicione o alho amassado e refogue por mais um minuto.
+5. **Misture tudo:** Adicione as carnes, o feijão cozido (com o caldo) e o bacon à panela do refogado. Tempere com sal e pimenta do reino a gosto. Cozinhe em fogo baixo por cerca de 1 hora, mexendo ocasionalmente, para apurar o sabor.
+6. **Sirva:** Sirva a feijoada quente acompanhada de arroz branco, couve mineira refogada, farofa com bacon e laranja em rodelas.
 
-## O que vem a seguir
+**Dicas:**
 
-Eu irei completar o tutorial do Astro, e então continuarei adicionando mais postagens. Olhe por aqui para o que vem a frente.
+* **Para um sabor mais intenso:** adicione um pouco de cominho em pó e pimenta calabresa à feijoada.
+* **Para uma feijoada mais leve:** retire a pele das carnes e utilize menos bacon.
+* **Tempo de cozimento do feijão:** o tempo de cozimento do feijão pode variar de acordo com o tipo de panela e a qualidade do feijão.
+* **Acompanhamentos:** você pode adicionar outros acompanhamentos à sua feijoada, como torresmo, vinagrete e banana à milanesa.
+
+**Tempo de Preparo:** 2 horas (incluindo o tempo de dessalgue)
+**Rendimento:** 8 porções
+
+<style>
+  .botao-menu {
+    background-color: #3245ff;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }
+</style>
+
+<button onclick="window.location.href='https://receitaspraticasdevo.netlify.app/menu/'" class="botao-menu">
+  Voltar ao Menu
+</button>
